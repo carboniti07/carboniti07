@@ -1,60 +1,90 @@
 <div align="center">
 
-# Hi, I'm Matheus Carboni 👋
+# Olá, eu sou Matheus Carboni 👋
 
-### Developer | Full Stack • Web Applications • APIs • Databases
+### Desenvolvedor | Full Stack • Aplicações Web • APIs • Bancos de Dados
 
-I build web applications, management systems, APIs and automation solutions focused on solving real-world problems.
+Desenvolvo aplicações web, sistemas de gestão e APIs voltadas para problemas e processos reais.
+
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 
 </div>
 
-## About me
+---
 
-- 💻 Developing full stack web applications and management systems
-- ⚙️ Building backend services and REST APIs
-- 📊 Working with dashboards, databases and business process automation
-- 🧩 Interested in software architecture, integrations and scalable applications
-- 📚 Continuously improving my skills through projects and technical study
+## 👨‍💻 Sobre mim
 
-## Technologies
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em constante evolução, com foco na construção de aplicações web completas.
+
+Tenho interesse principalmente em desenvolvimento Full Stack, APIs, bancos de dados, automação de processos e sistemas de gestão.
+
+Atualmente, venho desenvolvendo projetos que envolvem:
+
+- Sistemas administrativos e de gestão
+- Aplicações web responsivas
+- APIs REST
+- Autenticação e controle de acesso
+- Dashboards
+- Integração com bancos de dados
+- Automação de processos
+
+---
+
+## 🎨 Frontend
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,java,nestjs,mongodb,docker,github,vscode" alt="Technology stack" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" alt="Frontend technologies" />
+
 </div>
 
-## What I build
+---
 
-- Web management systems
-- REST APIs and backend services
-- Administrative dashboards
-- Authentication and access control flows
-- Database-driven applications
-- Process automation and internal tools
-
-## Featured work
-
-### Visitor Management System
-Web application focused on visitor registration, organization and operational control.
-
-### Quality Kanban
-Kanban-based application for visual management of activities and quality processes.
-
-### Management Applications
-Web systems focused on registrations, users, products, access control, dashboards and administrative workflows.
-
-## GitHub Stats
+## ⚙️ Backend
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carboniti07&show_icons=true&hide_border=true&theme=github_dark" alt="Matheus Carboni GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carboniti07&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" alt="Backend technologies" />
+
 </div>
 
-## Current focus
+---
 
-```text
-Full Stack Development
-Web Applications
-Backend & REST APIs
-Databases
-Automation
-Software Architecture
+## 🗄️ Banco de Dados
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb" alt="Database technologies" />
+
+</div>
+
+---
+
+## 🛠️ Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Development tools" />
+
+</div>
+
+---
+
+## 🚀 Atualmente estudando e desenvolvendo
+
+- Desenvolvimento Full Stack
+- React e TypeScript
+- Node.js e APIs REST
+- NestJS
+- Python
+- MongoDB
+- Docker
+- Arquitetura e organização de aplicações
+
+---
+
+<div align="center">
+
+### Transformando aprendizado em projetos reais.
+
+</div>
