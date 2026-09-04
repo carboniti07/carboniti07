@@ -79,11 +79,11 @@ Web application developed for visitor registration, organization and management.
 
 ---
 
-### 👕 Camisa Sede
+### 🛠️ OficinaPro
 
-Management application created to support shirt registrations, organization and administrative processes.
+Web application developed to support workshop management and day-to-day operational processes.
 
-**Focus:** frontend development, user flows, forms and management routines.
+**Focus:** management workflows, registrations, organization and practical business operations.
 
 **Technologies:** React, TypeScript, Web Application
 
