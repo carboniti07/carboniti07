@@ -1,90 +1,121 @@
 <div align="center">
 
-# Olá, eu sou Matheus Carboni 👋
+# Hi, I'm Matheus Carboni 👋
 
-### Desenvolvedor | Full Stack • Aplicações Web • APIs • Bancos de Dados
+### Full Stack Developer in progress
 
-Desenvolvo aplicações web, sistemas de gestão e APIs voltadas para problemas e processos reais.
-
-🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+Student of **Systems Analysis and Development**, focused on web development, APIs, databases and building real-world applications.
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## About me
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em constante evolução, com foco na construção de aplicações web completas.
+I'm currently studying **Systems Analysis and Development** and developing projects to improve my skills across frontend and backend development.
 
-Tenho interesse principalmente em desenvolvimento Full Stack, APIs, bancos de dados, automação de processos e sistemas de gestão.
+I enjoy building web applications, management systems, APIs and solutions that solve real operational problems.
 
-Atualmente, venho desenvolvendo projetos que envolvem:
-
-- Sistemas administrativos e de gestão
-- Aplicações web responsivas
-- APIs REST
-- Autenticação e controle de acesso
-- Dashboards
-- Integração com bancos de dados
-- Automação de processos
+- 💻 Focused on Full Stack Development
+- 🌐 Building web applications and management systems
+- ⚙️ Learning more about backend development and APIs
+- 🗄️ Working with databases and application integrations
+- ☕ Currently studying Java
+- 📚 Continuously improving through courses and practical projects
 
 ---
 
-## 🎨 Frontend
+## Tech Stack
 
-<div align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" alt="Frontend technologies" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
+</p>
 
-</div>
+### Backend
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
+</p>
 
-## ⚙️ Backend
+### Database
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" alt="Backend technologies" />
+### Tools
 
-</div>
-
----
-
-## 🗄️ Banco de Dados
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb" alt="Database technologies" />
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
 
 ---
 
-## 🛠️ Ferramentas
+## Currently Learning
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Development tools" />
-
-</div>
+- Java
+- Backend architecture
+- REST APIs
+- Full Stack development
+- Docker and application environments
 
 ---
 
-## 🚀 Atualmente estudando e desenvolvendo
+## Featured Projects
 
-- Desenvolvimento Full Stack
-- React e TypeScript
-- Node.js e APIs REST
+### 🏢 Visitor Management System
+
+Web application developed for visitor registration, organization and management.
+
+**Focus:** frontend, forms, data handling and operational usability.
+
+**Technologies:** JavaScript, Web Development
+
+---
+
+### 👕 Camisa Sede
+
+Management application created to support shirt registrations, organization and administrative processes.
+
+**Focus:** frontend development, user flows, forms and management routines.
+
+**Technologies:** React, TypeScript, Web Application
+
+---
+
+### 📚 Alura Books
+
+Full stack project developed during my studies to practice frontend and backend integration.
+
+**Focus:** book search, favorites, REST API integration and application structure.
+
+**Technologies:** React, Node.js, Express, Axios
+
+---
+
+### ⚙️ Backend & API Projects
+
+Projects developed during my studies focused on backend concepts, API development and application architecture.
+
+Includes work with:
+
+- Node.js
+- Express
 - NestJS
 - Python
-- MongoDB
-- Docker
-- Arquitetura e organização de aplicações
+- REST APIs
+- Databases
 
 ---
 
 <div align="center">
 
-### Transformando aprendizado em projetos reais.
+### Learning. Building. Improving.
 
 </div>
